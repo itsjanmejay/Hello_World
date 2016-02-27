@@ -1,2 +1,4 @@
 # Hello_World
-Just another repository
+Hello everybody,
+
+This is Janmejay Tripathy.. I like to explore new technologies...
